@@ -1,0 +1,14 @@
+streamlit
+opencv-python
+numpy
+pandas
+plotly
+pillow
+requests
+python-dotenv
+ultralytics
+pytesseract
+requests>=2.31.0
+urllib3>=2.0.0
+scikit-learn==1.8.0
+joblib>=1.4
